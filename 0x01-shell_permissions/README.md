@@ -1,1 +1,1 @@
-sets the permission to the file 
+ changes the group owner
